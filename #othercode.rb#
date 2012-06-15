@@ -1,0 +1,5 @@
+#class beastie boy's
+#def initialize
+#year(year_val)
+#puts
+# @discog.each {|key,value| puts  ("#{key} #{value}") if value == year
